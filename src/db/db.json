@@ -1,0 +1,196 @@
+{
+  "users": [
+    {
+      "email": "member@member.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1571213104370,
+      "id": "Z2hlvDmLOSRZGebC_Z_aA"
+    },
+    {
+      "email": "master@code.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1618666923175,
+      "id": "e0DGX2vzGbt5FrBo48VX0"
+    },
+    {
+      "email": "master1@code.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1618760713733,
+      "id": "DXfYooq_CtnoTdDpUz7-g"
+    },
+    {
+      "email": "master2@code.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1618761002556,
+      "id": "Bing8i7luSBItRoF6Hyb2"
+    },
+    {
+      "email": "member@code.com",
+      "password": "password",
+      "role": "MEMBER",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1618762071367,
+      "id": "25AdEmgFqND4Czl2AZNQS"
+    },
+    {
+      "email": "member1@code.com",
+      "password": "password",
+      "role": "MEMBER",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1618762258724,
+      "id": "MvEpc1GOpjFJWRZMRBnjw"
+    },
+    {
+      "email": "member2@code.com",
+      "password": "password",
+      "role": "MEMBER",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1618762322077,
+      "id": "NpaRw-XNifcwjnQN7KxQV"
+    },
+    {
+      "email": "angela@code.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1618762411648,
+      "id": "zHsFhH8Ga7rTVlgph6Cx9"
+    },
+    {
+      "email": "angela1@code.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1618762726939,
+      "id": "auCZzK2xoOi72WkIV3lOW"
+    },
+    {
+      "email": "angela2@code.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1618762790214,
+      "id": "4q5GidjC90D82sypX6L05"
+    },
+    {
+      "email": "angela3@code.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1618762837971,
+      "id": "wapnkx--sXonDgqmejZ2S"
+    },
+    {
+      "email": "angela4@code.com",
+      "password": "password",
+      "role": "MEMBER",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1618762861096,
+      "id": "c0bc15bWxYQZ-qkrj3ICy"
+    },
+    {
+      "email": "angela5@code.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1623193761889,
+      "id": "YCAxr0n9_bqB80m3fYnX5"
+    },
+    {
+      "email": "angela6@code.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1623193869148,
+      "id": "lLn0dg37peesiWpmbSLib"
+    },
+    {
+      "email": "angela7@code.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1623193907911,
+      "id": "nsCPLsw4rmEOIopzDTri0"
+    },
+    {
+      "email": "angela8@code.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1623194280323,
+      "id": "gpnuYKoi5JdgLG5xeVBmz"
+    },
+    {
+      "email": "angela9@code.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1623194425113,
+      "id": "4LQLgpx2SWEeRo9bQxuO3"
+    }
+  ],
+  "posts": [
+    {
+      "message": "guess who's back",
+      "author": "nsCPLsw4rmEOIopzDTri0",
+      "createdAt": 1623194326681,
+      "id": "5cF7FAF_gCLqU7erNCuVo"
+    },
+    {
+      "message": "guess who's back",
+      "author": "nsCPLsw4rmEOIopzDTri0",
+      "createdAt": 1623194336051,
+      "id": "lYe21JZiG_cn9AbkmdvPR"
+    },
+    {
+      "message": "guess who's back",
+      "author": "4LQLgpx2SWEeRo9bQxuO3",
+      "createdAt": 1623194440716,
+      "id": "Bwv2JZvs6_3QfbpbwqI3I"
+    },
+    {
+      "message": "it's a me, mario!",
+      "author": "4LQLgpx2SWEeRo9bQxuO3",
+      "createdAt": 1623194460579,
+      "id": "pvt2d712NiPzc3P_Xm9oc"
+    },
+    {
+      "message": "knock, knock",
+      "author": "4LQLgpx2SWEeRo9bQxuO3",
+      "createdAt": 1623194476160,
+      "id": "pN4f3ktYgErHoaoJ9pdJz"
+    },
+    {
+      "message": "who's there?",
+      "author": "4LQLgpx2SWEeRo9bQxuO3",
+      "createdAt": 1623194485091,
+      "id": "2m14KDNNdGwSUzyXsO1tA"
+    }
+  ],
+  "settings": []
+}

@@ -1,0 +1,53 @@
+- pubsub pulbish to that channel usually events
+redis like this
+just a place you can publish events and eventually subscribe to those eevents
+then you have to cresate resolvers
+subscription is a type definition
+you have to mkae resolvers for those fields
+what events are thye listenign forotherwise dont know what to dontadd any needed authentication and contet
+completely different than non subscriptions address, handle thatmake sure you're good to goodotherwise can subscribe to api
+authoriation make sure you can set those stuff up
+client side setup
+react app, review app, you have to add some stuffadd a transport protocol
+you have to set it up there
+usualyl in application if youre subscribing to something early on in applicationin layout file thats active
+maintining the state
+kick tht off before anything else happens
+otherwise why do you have subscriptions
+first thing we have to add query to subscription
+subscriptions only interested in sending and modifying eventsdata payload it wants to have access tomatch what subscription is referencing
+new item type field with a item typemake this a 
+go to type defintions add subscription typefor this example we dont have anything meaningful
+set up pub sub protocols
+implemnetation is a pubsub protocolinterface you can override and extend with your own, redis but use theirs for forotherwisemake instance of that pubsub equals a new 
+subscription events and resolversfor new item field need to make a resovler for itresolvers object, sibling  of queryfor new item
+return a function subscribe method
+async iterator
+new item event like this with same name
+and basically the new item subscription is subscribing to any event by the name of new itemand the next part is add the actual trigger when a new item is created
+create mutations for when we create an itemcreate item mutation here
+theres no root arg
+it takes in arguments of atask
+return object that representats an item that
+pubsub new item trigger tobecause subscriptions only interesting in sending and notifying eventsactual payload when has access to when query inside clientin this case object wthi new item field with item type
+subscribing to any event by name itemand the next part we need to do is add the actual trigger when new item is createdcreate mutation for when we create an itemcreate item mutation heretheres no root arg heretakes in argument of task which is string
+and what i can do is say return and object that representas an item that ha a task on itpublish to our subscription that has same eventpubsub.publish takes a triggernew item, subscribing to
+is create item a mutation that subscribes?
+subscriptions must be added to your schema like queries and mutationssetup pubsub protocol server side
+create subscription event resolvers
+add any needed authentication and context
+client side setup
+for context its similar to what you'd normally docontext object request 
+also somehing called connection
+if incoming is a subscription, its a connection property
+context cretion a little differntly
+going to have sonnectioni context pass that around
+handle little differently than non subscription contextjust use subscriptions fieldheres a hook for onconnect
+take sa  few, but params or connectionparams
+headers
+like req.headersitem is
+
+///
+
+create subscription type
+publish subscription when post is created
